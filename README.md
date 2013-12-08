@@ -12,8 +12,9 @@ if you are not there - have a fine. If you balance reach zero you will lose the 
 
 Hero becomes hungry from time to time and you should move to the local cafe, come to the barman and press E to eat.
 
-###Running
-Just run *city.py* file
+###Playing
+Just run *city.py* file to start. 
+If you want to play listening to your favourite music pu it into /soundtracks. 
 
 ###Requarements
 Python 3 interpreter and Pygame should be installed
