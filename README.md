@@ -1,7 +1,7 @@
 round-city-round
 ================
 
-This is a small game which models a tiny city and behaviour of its cityzens.
+This is a small game which models a tiny city and behaviour of its citizens.
 
 ###Plot
 
