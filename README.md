@@ -14,7 +14,7 @@ Hero becomes hungry from time to time and you should move to the local cafe, com
 
 ###Playing
 Just run *city.py* file to start. 
-If you want to play listening to your favourite music pu it into /soundtracks. 
+If you want to play listening to your favourite music put it into /soundtracks. 
 
 ###Requarements
 Python 3 interpreter and Pygame should be installed
